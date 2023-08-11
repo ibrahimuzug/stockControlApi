@@ -1,0 +1,24 @@
+[
+  {
+    "StockNotFoundWithGivenId": {
+      "tr": "Girilen Id ile uyuşan Stok bulunamadı.",
+      "en": "Stock Not Found with given Id."
+    },
+    "StocksNotFoundWithGivenIds": {
+      "tr": "Girilen Id'ler ile uyuşan Stok/Stoklar bulunamadı.",
+      "en": "Stock/Stocks Not Found with given Id's."
+    },
+    "RequestCanNotBeEmpty": {
+      "tr": "İstek boş olamaz.",
+      "en": "Request can not be empty."
+    },
+    "InvalidStockInformation": {
+      "tr": "Stok bilgileri hatalı.",
+      "en": "Stock informations are invalid."
+    },
+    "ErrorOccuredWhenCreatingStock": {
+      "tr": "Stok oluşturulurken hata oluştu.",
+      "en": "An error occured when creating Stock."
+    }
+  }
+]
