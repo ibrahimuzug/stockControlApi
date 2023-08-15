@@ -1,6 +1,6 @@
 namespace StockControlApi.Helpers;
 
-public class Constants
+public static class Constants
 {
     public static class ElasticsearchConstants
     {
@@ -9,6 +9,6 @@ public class Constants
     
     public static class ConfigurationKeys
     {
-        public const string DataProvider = "DataConfig";
+        public const string IsMssqlActive = "IsMSSQLActive";
     }
 }
